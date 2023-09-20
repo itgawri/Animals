@@ -23,4 +23,5 @@ Poodle Class (Subclass of Dog):
 Inherits from the Dog class and focuses on Poodle-specific attributes.
 Sets the is_hypoallergenic attribute to True for Poodles.
 Adds a method, groom(), to signify the grooming process for Poodles.
+
 This project is designed to showcase object-oriented programming in Python, including inheritance and method overriding. It allows you to create and manage different types of pets, each with its unique characteristics and behaviors. You can add new attributes and methods to further extend the functionality of these classes to suit your needs.
